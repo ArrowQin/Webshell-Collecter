@@ -281,7 +281,7 @@ def webshell_collecter():
         'https://github.com/tennc/webshell',
         'https://github.com/ysrc/webshell-sample',
         'https://github.com/JohnTroony/php-webshells',
-        'https://github.com/xl7dev/WebShell'
+        'https://github.com/xl7dev/WebShell',
         'https://github.com/b374k/b374k'
     ]
     for url in webshell_git_repository_url:
